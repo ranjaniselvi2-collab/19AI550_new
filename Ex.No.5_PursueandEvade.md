@@ -112,9 +112,13 @@ public class Pursuer: MonoBehaviour
 ### PLAYER
 <img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/e1f5cb0a-1e43-4aef-a1ff-a17ace2098e0" />
 <img width="1907" height="1017" alt="image" src="https://github.com/user-attachments/assets/0c382b9c-92d6-4dca-8e59-506ec05dd4bf" />
+
+
 ### PURSUER
 <img width="1915" height="1016" alt="image" src="https://github.com/user-attachments/assets/b9d99fec-2218-4697-b03b-bd0896ded334" />
 <img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/01989bda-8247-40e5-90e4-aa2300d07f87" />
+
+
 ### EVADER
 <img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/70aa55a6-b253-4920-b192-81a87e0ceb8d" />
 <img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/9e469e52-9e71-4db6-b870-13f71e1981e6" />
